@@ -2,6 +2,12 @@
 
 ### Annotations to this article
 
+During the process of experiment,to guarantee a certain rigidity of the monomers,we tested two different types of DNA tetrahedron,one is the Rigidified DNA Tetrahedron (RDT),another is the Tetrahedral DNA Nanostructure (TDN).Their backbone structures are shown in the figure below. However, in the later stage of the experiment, due to the low purity of RDT during synthesis, using it as an assembly monomer would introduce disordered and incorrect assembly into the assembly structure, making it impossible to obtain the structure we needed. In contrast, TDN is relatively simple to synthesize and has high purity, which enables it to assemble well into the 2D material we required. Therefore, in the later stage of the experiment, we mainly used TDN assemblies as the research object. In other parts of the webpage, we also take TDN assemblies as the focus of discussion. Nevertheless, in the labbook, we will record all the experiments we conducted on both types of tetrahedra and present them to you.
+
+**The left figure shows the RDT backbone, and the right figure shows the TDN sequence.**
+
+<img src="C:/Users/29424/AppData/Roaming/Typora/typora-user-images/image-20251004123107416.png" alt="image-20251004123107416" style="zoom:35%;" /><img src="项目图集/序列配对示意.png" alt="序列配对示意" style="zoom:33%;" />
+
 In the electrophoresis images,shorthand labels are used for DNA strands and various assemblies. The annotations are explained below.
 
 Annotations for RDT-related tetrahedral structures
