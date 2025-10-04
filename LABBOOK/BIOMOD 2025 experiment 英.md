@@ -6,7 +6,7 @@ During the process of experiment,to guarantee a certain rigidity of the monomers
 
 **The left figure shows the RDT backbone, and the right figure shows the TDN sequence.**
 
-<img src="C:/Users/29424/AppData/Roaming/Typora/typora-user-images/image-20251004123107416.png" alt="image-20251004123107416" style="zoom:35%;" /><img src="项目图集/序列配对示意.png" alt="序列配对示意" style="zoom:33%;" />
+<img src="项目图集/image-20251004123107416.png" alt="image-20251004123107416" style="zoom:35%;" /><img src="项目图集/序列配对示意.png" alt="序列配对示意" style="zoom:33%;" />
 
 In the electrophoresis images,shorthand labels are used for DNA strands and various assemblies. The annotations are explained below.
 
