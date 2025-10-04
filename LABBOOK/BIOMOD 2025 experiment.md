@@ -310,7 +310,7 @@ D面，2%琼脂糖凝胶电泳![7.16晚D面电泳](电泳结果/7.16晚D面电�
 
 ### **8.2**
 
-做了个电泳，待传图
+做了个电泳
 
 ### **8.3**
 
@@ -322,11 +322,11 @@ D面，2%琼脂糖凝胶电泳![7.16晚D面电泳](电泳结果/7.16晚D面电�
 
 ### 8.4
 
-对重新过退火程序的ABCD面和不同组装时长的RDT做琼脂糖凝胶电泳，待传图
+对重新过退火程序的ABCD面和不同组装时长的RDT做琼脂糖凝胶电泳
 
 ### 8.5
 
-对不同组装时长的RDT作琼脂糖凝胶电泳，预备切胶分离，未找到合适条带，待传图
+对不同组装时长的RDT作琼脂糖凝胶电泳，预备切胶分离，未找到合适条带
 
 ### 8.7
 
@@ -338,7 +338,7 @@ D面，2%琼脂糖凝胶电泳![7.16晚D面电泳](电泳结果/7.16晚D面电�
 
 浅浅比个心
 
-![IMG_20kx_33354](电镜结果/8.7/20250807/0.1X -RDT稀释10倍_1比1加入250mM钾离子/IMG_20kx_33354.webp)
+<img src="电镜结果/8.7/20250807/0.1X -RDT稀释10倍_1比1加入250mM钾离子/IMG_20kx_33354.webp" alt="IMG_20kx_33354" style="zoom:67%;" />
 
 此样品单体结合度较低，推测环形排列是由于制样时的咖啡环效应导致的
 
@@ -354,9 +354,7 @@ D面，2%琼脂糖凝胶电泳![7.16晚D面电泳](电泳结果/7.16晚D面电�
 
 ### 8.10
 
-调节不同温度对RDT处理1h，进行琼脂糖凝胶电泳，检验温度对RDT稳定性的影响，待传图
-
-### 8.12
+调节不同温度对RDT处理1h，进行琼脂糖凝胶电泳，检验温度对RDT稳定性的影响
 
 对循环处理的组装体进行透射电镜观察
 
@@ -383,3 +381,156 @@ D面，2%琼脂糖凝胶电泳![7.16晚D面电泳](电泳结果/7.16晚D面电�
 ### 8.25
 
 结束温度循环，准备对组装体进行电镜分析
+
+### 8.26
+
+电镜分析RDT样品，糟糕的结果
+
+<img src="电镜结果/8.26/IMG_3500x_34026.webp" alt="IMG_3500x_34026" style="zoom:33%;" /><img src="电镜结果/8.26/IMG_2kx_34023.webp" alt="IMG_2kx_34023" style="zoom:33%;" />
+
+
+
+### 8.29
+
+电镜表征新一轮RDT样品
+
+**一号样**
+
+<img src="电镜结果/8.29/M1/IMG_10kx_34244.webp" alt="IMG_10kx_34244" style="zoom:33%;" /><img src="电镜结果/8.29/M1/IMG_6kx_34243.webp" alt="IMG_6kx_34243" style="zoom:33%;" />
+
+**二号样**
+
+<img src="电镜结果/8.29/M3/IMG_7kx_34246.webp" alt="IMG_7kx_34246" style="zoom:33%;" /><img src="电镜结果/8.29/M3/IMG_10kx_34249.webp" alt="IMG_10kx_34249" style="zoom:33%;" />
+
+<img src="电镜结果/8.29/M3/IMG_10kx_34250.webp" alt="IMG_10kx_34250" style="zoom:33%;" /><img src="电镜结果/8.29/M3/IMG_10kx_34251.webp" alt="IMG_10kx_34251" style="zoom:33%;" />
+
+<img src="电镜结果/8.29/M3/IMG_10kx_34253.webp" alt="IMG_10kx_34253" style="zoom:33%;" /><img src="电镜结果/8.29/M3/IMG_20kx_34257.webp" alt="IMG_20kx_34257" style="zoom:33%;" />
+
+### 9.4
+
+电镜表征7个样品，因为制样问题，仅有6号样品取得较为有效数据
+
+<img src="电镜结果/9.4/5/IMG_7kx_34751.webp" alt="IMG_7kx_34751" style="zoom:33%;" /><img src="电镜结果/9.4/5/IMG_6kx_34757.webp" alt="IMG_6kx_34757" style="zoom:33%;" />
+
+<img src="电镜结果/9.4/5/IMG_7kx_34747.webp" alt="IMG_7kx_34747" style="zoom:33%;" /><img src="电镜结果/9.4/5/IMG_7kx_34750.webp" alt="IMG_7kx_34750" style="zoom:33%;" />
+
+
+
+### 9.5
+
+调整制样方法，重新制样，电镜表征
+
+**一号样 RDT组装2**
+
+<img src="电镜结果/9.5/o1/IMG_5kx_34852.webp" alt="IMG_5kx_34852" style="zoom:33%;" /><img src="电镜结果/9.5/o1/IMG_10kx_34849.webp" alt="IMG_10kx_34849" style="zoom:33%;" />
+
+**二号样 RDT组装2 **
+
+<img src="电镜结果/9.5/o2/IMG_5kx_34856.webp" alt="IMG_5kx_34856" style="zoom:33%;" /><img src="电镜结果/9.5/o2/IMG_5kx_34857.webp" alt="IMG_5kx_34857" style="zoom:33%;" />
+
+<img src="电镜结果/9.5/o2/IMG_2kx_34860.webp" alt="IMG_2kx_34860" style="zoom:33%;" /><img src="电镜结果/9.5/o2/IMG_5kx_34855.webp" alt="IMG_5kx_34855" style="zoom:33%;" />
+
+**三号样 RDT组装3**
+
+<img src="电镜结果/9.5/o3/IMG_5kx_34862.webp" alt="IMG_5kx_34862" style="zoom:33%;" /><img src="电镜结果/9.5/o3/IMG_5kx_34863.webp" alt="IMG_5kx_34863" style="zoom:33%;" />
+
+<img src="电镜结果/9.5/o3/IMG_5kx_34864.webp" alt="IMG_5kx_34864" style="zoom:33%;" /><img src="电镜结果/9.5/o3/IMG_5kx_34865.webp" alt="IMG_5kx_34865" style="zoom:33%;" />
+
+**四号样 TDN锂离子组装1**
+
+<img src="电镜结果/9.5/o4/IMG_2kx_34870.webp" alt="IMG_2kx_34870" style="zoom:33%;" /><img src="电镜结果/9.5/o4/IMG_5kx_34866.webp" alt="IMG_5kx_34866" style="zoom:33%;" />
+
+<img src="电镜结果/9.5/o4/IMG_5kx_34867.webp" alt="IMG_5kx_34867" style="zoom:33%;" /><img src="电镜结果/9.5/o4/IMG_5kx_34877.webp" alt="IMG_5kx_34877" style="zoom:33%;" />
+
+**五号样 RDT组装**
+
+<img src="电镜结果/9.5/o5/IMG_5kx_34880.webp" alt="IMG_5kx_34880" style="zoom:33%;" /><img src="电镜结果/9.5/o5/IMG_5kx_34879.webp" alt="IMG_5kx_34879" style="zoom:33%;" />
+
+**六号样 RDT组装**
+
+<img src="电镜结果/9.5/p2/IMG_5kx_34887.webp" alt="IMG_5kx_34887" style="zoom:33%;" /><img src="电镜结果/9.5/p2/IMG_2kx_34888.webp" alt="IMG_2kx_34888" style="zoom:33%;" />
+
+### 9.8
+
+原子力显微镜表征
+
+**一号样 Li离子组装TDN**
+
+<img src="原子力显微镜结果/膜1 9-8.jpg" alt="膜1 9-8" style="zoom: 9%;" /><img src="原子力显微镜结果/膜2 9-8.jpg" alt="膜2 9-8" style="zoom:9%;" />
+
+**二号样 RDT组装**
+
+<img src="原子力显微镜结果/RDT4 9-8.JPG" alt="RDT4 9-8" style="zoom:9%;" /><img src="原子力显微镜结果/RDT 9-8.JPG" alt="RDT 9-8" style="zoom:9%;" />
+
+<img src="原子力显微镜结果/RDT2 9-8.JPG" alt="RDT2 9-8" style="zoom:9%;" /> <img src="原子力显微镜结果/RDT3 9-8.jpg" alt="RDT3 9-8" style="zoom:9%;" />
+
+### 9.11
+
+**TDN电泳**
+
+<img src="电泳结果/9.11晚电泳结果.png" alt="9.11晚电泳结果" style="zoom:24%;" />
+
+### 9.19
+
+电镜表征
+
+**一号样 TDN 100mM钾离子浓度组装**
+
+<img src="电镜结果/9.19/I1/OneView 200kV 80kX   17890.webp" alt="OneView 200kV 80kX   17890" style="zoom:22%;" /><img src="电镜结果/9.19/I1/OneView 200kV 250kX   17891.webp" alt="OneView 200kV 250kX   17891" style="zoom:22%;" />
+
+<img src="电镜结果/9.19/I1/OneView 200kV 250kX   17892.webp" alt="OneView 200kV 250kX   17892" style="zoom:22%;" /><img src="电镜结果/9.19/I1/OneView 200kV 80kX   17885.webp" alt="OneView 200kV 80kX   17885" style="zoom:22%;" />
+
+**二号样 钾离子：锂离子= 1：1 组装**
+
+<img src="电镜结果/9.19/I2/OneView 200kV 250kX   17897.webp" alt="OneView 200kV 250kX   17897" style="zoom:22%;" /><img src="电镜结果/9.19/I2/OneView 200kV 250kX   17896.webp" alt="OneView 200kV 250kX   17896" style="zoom:22%;" />
+
+### 9.21
+
+**一号样 钾加锂1：1组装**
+
+<img src="原子力显微镜结果/钾加锂1：1 9-21.jpg" alt="钾加锂1：1 9-21" style="zoom:9%;" /><img src="原子力显微镜结果/钾加锂1：1 9-21 2.jpg" alt="钾加锂1：1 9-21 2" style="zoom:9%;" />
+
+**二号样 TDN单体**
+
+<img src="原子力显微镜结果/TDN单体2 9-21.jpg" alt="TDN单体2 9-21" style="zoom:8.5%;" /><img src="原子力显微镜结果/TDN单体 9-21.jpg" alt="TDN单体 9-21" style="zoom:8.5%;" />
+
+**三号样 钾离子组装**
+
+<img src="原子力显微镜结果/钾离子组装2 9-21.jpg" alt="钾离子组装2 9-21" style="zoom:8.5%;" /><img src="原子力显微镜结果/钾离子组装1 9-21.jpg" alt="钾离子组装1 9-21" style="zoom:8.5%;" />
+
+### 9.29
+
+透射电镜表征
+
+**钾离子：锂离子=1：3**
+
+<img src="电镜结果/9.29/20250929ZZK/N5/OneView 200kV 200kX   17135.webp" alt="OneView 200kV 200kX   17135" style="zoom:22%;" />
+
+### 10.1
+
+原子力表征
+
+**一号样 钾离子：锂离子=1：3**
+
+<img src="原子力显微镜结果/球笼5 1001.jpg" alt="球笼5 1001" style="zoom:8.5%;" /><img src="原子力显微镜结果/球笼6 1001.jpg" alt="球笼6 1001" style="zoom:8.5%;" />
+
+<img src="原子力显微镜结果/球笼1 1001.jpg" alt="球笼1 1001" style="zoom:9%;" /><img src="原子力显微镜结果/球笼2 1001.jpg" alt="球笼2 1001" style="zoom:8.5%;" />
+
+<img src="原子力显微镜结果/球笼3 1001.jpg" alt="球笼3 1001" style="zoom:9%;" /><img src="原子力显微镜结果/球笼4 1001.jpg" alt="球笼4 1001" style="zoom:8.5%;" />
+
+**二号样 50mM 钾离子**
+
+<img src="原子力显微镜结果/50钾2 1001.jpg" alt="50钾2 1001" style="zoom:9%;" /><img src="原子力显微镜结果/50钾1 1001.jpg" alt="50钾1 1001" style="zoom:9%;" />
+
+### 10.2
+
+DLS表征
+
+**一号样 用锂离子组装的组装体**
+
+![20251002-Li](DLS结果/20251002-Li.png)
+
+**二号样 用钾离子：锂离子=3：1组装的组装体**
+
+![20251002-K+Li](DLS结果/20251002-K+Li.png)
+
